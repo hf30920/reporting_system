@@ -1,0 +1,15 @@
+{
+  "name": "reporting_system",
+  "version": "1.0.0",
+  "description": "打开MySQL数据库（类似Navicat Premium），登录后,创立一个名为’wb’的数据库，运行“数据库”文件夹中提供的sql文件建立数据库并且初始化数据的，成功运行后应该有三张含有数据的表",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
